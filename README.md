@@ -1,5 +1,5 @@
 # Med Assist
-Med Assist app lets patients connect to doctors and book appointments. The day is divided into time slots of 60 minutes each, starting from 9 am to 9 pm. Doctors can log in to the portal and declare their availability for slots on the given day.  Patients can book appointments/ cancel existing appointments.
+Med Assist app lets patients connect to doctors and book appointments. The day is divided into time slots of 60 minutes each, starting from 9 am to 9 pm. Doctors can log in to the portal and declare their availability for slots on the given day.  Patients can book appointments / cancel existing appointments.
 
 ## Features
 * A new doctor should be able to register and mention his/her speciality (Cardiologist, Dermatologist, Orthopedic, General Physician).
